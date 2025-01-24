@@ -61,5 +61,5 @@ let noWisdom = function(){
     wis.innerHTML = "More Pets = More Wisdom";
 }
 
-photo.onmousedown = getWisdom;
+photo.onclick = getWisdom;
 photo.onmouseup = noWisdom;

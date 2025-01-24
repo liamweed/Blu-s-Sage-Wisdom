@@ -1,0 +1,26 @@
+body{
+    background-color: darkorchid;
+}
+
+header{
+    text-align: center;
+    font-size: larger;
+}
+
+.instructions{
+    text-align: center;
+}
+
+.bluPhoto{
+    text-align: center;
+}
+
+img{
+    width: 350px;
+    length: 350px;
+}
+
+.wisdom{
+    text-align: center;
+    font-style: italic;
+}

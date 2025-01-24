@@ -57,9 +57,4 @@ let getWisdom = function(){
     wis.innerHTML = message;
 }
 
-let noWisdom = function(){
-    wis.innerHTML = "More Pets = More Wisdom";
-}
-
 photo.onclick = getWisdom;
-photo.onmouseup = noWisdom;
